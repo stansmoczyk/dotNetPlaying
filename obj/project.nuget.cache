@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yXpsSg+Sy5RPCaC0WjGedCk7RnhBSPOn7HVnrAKzrRlgkRaLmfUh/fojcXPDxnaCoRs9huDnLyfAPTFH87+QCg==",
+  "success": true,
+  "projectFilePath": "/run/media/stan/BigDrive/WebTraining stuff/dotNetPlaying/dotNetPlaying.csproj",
+  "expectedPackageFiles": [
+    "/home/stan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

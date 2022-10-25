@@ -1,0 +1,15 @@
+/run/media/stan/BigDrive/WebTraining stuff/dotNetPlaying/bin/Debug/net6.0/dotNetPlaying
+/run/media/stan/BigDrive/WebTraining stuff/dotNetPlaying/bin/Debug/net6.0/dotNetPlaying.deps.json
+/run/media/stan/BigDrive/WebTraining stuff/dotNetPlaying/bin/Debug/net6.0/dotNetPlaying.runtimeconfig.json
+/run/media/stan/BigDrive/WebTraining stuff/dotNetPlaying/bin/Debug/net6.0/dotNetPlaying.dll
+/run/media/stan/BigDrive/WebTraining stuff/dotNetPlaying/bin/Debug/net6.0/ref/dotNetPlaying.dll
+/run/media/stan/BigDrive/WebTraining stuff/dotNetPlaying/bin/Debug/net6.0/dotNetPlaying.pdb
+/run/media/stan/BigDrive/WebTraining stuff/dotNetPlaying/obj/Debug/net6.0/dotNetPlaying.csproj.AssemblyReference.cache
+/run/media/stan/BigDrive/WebTraining stuff/dotNetPlaying/obj/Debug/net6.0/dotNetPlaying.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/stan/BigDrive/WebTraining stuff/dotNetPlaying/obj/Debug/net6.0/dotNetPlaying.AssemblyInfoInputs.cache
+/run/media/stan/BigDrive/WebTraining stuff/dotNetPlaying/obj/Debug/net6.0/dotNetPlaying.AssemblyInfo.cs
+/run/media/stan/BigDrive/WebTraining stuff/dotNetPlaying/obj/Debug/net6.0/dotNetPlaying.csproj.CoreCompileInputs.cache
+/run/media/stan/BigDrive/WebTraining stuff/dotNetPlaying/obj/Debug/net6.0/dotNetPlaying.dll
+/run/media/stan/BigDrive/WebTraining stuff/dotNetPlaying/obj/Debug/net6.0/ref/dotNetPlaying.dll
+/run/media/stan/BigDrive/WebTraining stuff/dotNetPlaying/obj/Debug/net6.0/dotNetPlaying.pdb
+/run/media/stan/BigDrive/WebTraining stuff/dotNetPlaying/obj/Debug/net6.0/dotNetPlaying.genruntimeconfig.cache
