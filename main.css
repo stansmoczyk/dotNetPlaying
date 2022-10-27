@@ -10,9 +10,6 @@
     font-family: helvetica;
   }
 
-/* ul {
-    font-family: helvetica;
-} */
 
 li {
     list-style: circle;
@@ -22,9 +19,6 @@ li {
     list-style: square;
   }
   
-  /* #msg {
-    font-family: monospace;
-  } */
 
   .light-theme {
     --bg: var(--green);
